@@ -1,4 +1,4 @@
-##Introduction
+#Introduction
 Welcome to my GitHub repository! I'm thrilled to share my projects and contributions with you. Here's a bit about myself
 
 #Languages
